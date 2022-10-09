@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **enrica.berko@gmail.com**
 
-- ⚡ Fun fact **I love helping small businesses expand.**
+- ⚡ Fun fact **I love helping small businesses with their web presence.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
