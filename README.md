@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Enrica!</h1>
-<h3 align="center">A creative Full Stack Software Engineer from New York.</h3>
+<h3 align="center">A creative Full Stack Software Engineer from New York specialized in the MERN Stack.</h3>
 
 <p align="center"> <a href="https://twitter.com/ricasika" target="blank"><img src="https://img.shields.io/twitter/follow/ricasika?logo=twitter&style=for-the-badge" alt="ricasika" /></a> </p>
 
