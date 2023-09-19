@@ -8,19 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://twitter.com/ricasika" target="blank"><img src="https://img.shields.io/twitter/follow/ricasika?logo=twitter&style=for-the-badge" alt="ricasika" /></a> </p>
 
-- 🔭 I’m currently working on **a speech recognition app called friendly bot.**
-
-- 🌱 I’m currently learning **frameworks & data structures.**
-
-- 👯 I’m looking to collaborate on **team projects.**
-
-- 🤝 I’m looking for experience in **open source.**
-
-- 💬 Ask me about **front end development & entrepreneurship.**
-
-- 📫 How to reach me **enrica.berko@gmail.com**
-
-- ⚡ Fun fact **I love helping small businesses with their web presence.**
+**I am a Software Engineer based in Brooklyn, NY. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to bring creative projects to life and demonstrate my commitment to developing world-class software solutions.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
